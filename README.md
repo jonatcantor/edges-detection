@@ -30,7 +30,7 @@ yarn install
 
 ```
 
-Acces the 'php' folder and install the necessary dependencies of [Composer](https://getcomposer.org)
+Access the 'php' folder and install the necessary dependencies of [Composer](https://getcomposer.org)
 ```
 
 cd php
