@@ -40,7 +40,9 @@ composer install
 
 Edit the .env files in root folder for React, and 'php' folder for PHP execution. Use the same local ip adress and port for the both files.
 
-You can open the project from root folder with [VS Code](https://code.visualstudio.com) and edit the .env files
+You can open the project from root folder with [VS Code](https://code.visualstudio.com) and edit the .env files.
+
+The .env.example files are example files, you must to create .env files for each .env.example file so it work.
 ```
 
 cd ..
