@@ -5,7 +5,7 @@ A learning project that uses [JS as Client](https://developer.mozilla.org/en-US/
 
 # How it work
 The video from camera is rendered in realtime on canvas, each frame of video is geted and sent to the server to be processed.
-Once the server has processed the image, it returns the imagen to the client.
+Once the server has processed the image, it returns the image to the client.
 The client sent a new imagen of next frame video and render the image recived by the server.
 
 # Run in local environment
