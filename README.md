@@ -67,3 +67,5 @@ yarn start
 ```
 
 Now try to access the app in your mobile or pc browser (you must give permissions to access the camera for it to work)!
+
+If you use another device to connect to your local network, remember to give permissions to the firewall or disable it to allow the connection.
