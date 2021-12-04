@@ -11,7 +11,7 @@ The client sent a new image of next frame video and render the image recived by 
 # Run in local environment
 The access to camera and audio only is possible from [HTTPS](https://en.wikipedia.org/wiki/HTTPS).
 
-In local environments if you do not use HTTPS, you must configurate the browser from which you want to access the app to 'treat the insecure origin as secure' (only the local origin, where you will execute the client) so you can use the camera and audio in http.
+In local environments if you do not use HTTPS, you must configurate the browser from which you want to access the app to 'treat the insecure origin as secure' (only the local origin, where you will execute the client) so you can use the camera and audio in HTTP.
 
 In Chrome is very simple [configure it](https://stackoverflow.com/questions/40696280/unsafely-treat-insecure-origin-as-secure-flag-is-not-working-on-chrome).
 
