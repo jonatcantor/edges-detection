@@ -58,7 +58,7 @@ php -q Main.php
 
 ```
 
-Return to root folder and you initialize the React app
+Open another terminal in root folder and you initialize the React app
 ```
 
 cd ..
