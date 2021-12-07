@@ -61,7 +61,6 @@ php -q Main.php
 Open another terminal in root folder and you initialize the React app
 ```
 
-cd ..
 yarn start
 
 ```
